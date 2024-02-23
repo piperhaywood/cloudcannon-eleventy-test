@@ -19,5 +19,6 @@ thumbImg:
 featuredImg:
   image: 
   image_alt:
+relation:
 draft: true 
 ---
